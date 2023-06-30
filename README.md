@@ -3,8 +3,8 @@ Get the data from BugTracker and use SQL and python to extract some knowledge fr
 Answer the questions:
 
 #### Question 1: How many tickets are open/closed?
-Update the SQL query to determine who has the _most closed tickets_ and who has the _most open tickets_.
 #### Question 2: Who has the most tickets assigned?
+Update the SQL query to determine who has the _most closed tickets_ and who has the _most open tickets_.
 #### Question 3: What is the longest time taken to complete a task?
 #### Question 4: What is the average time to close a ticket?
 Notice how the result has four decimal places?Use MySQL to format the result to two decimal places.
