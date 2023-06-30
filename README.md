@@ -1,6 +1,5 @@
 # Get BugTracker Metrics
-Get the data from BugTracker and use SQL and python to extract some knowledge from there. 
-Answer the questions:
+Get the data from BugTracker and use SQL and python to extract some knowledge from there by answering questions.
 
 #### Question 1: How many tickets are open/closed?
 #### Question 2: Who has the most tickets assigned?
